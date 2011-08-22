@@ -1,0 +1,19 @@
+GDAL is a translator library for raster geospatial data formats that is
+released under an X/MIT style Open Source license by the Open Source
+Geospatial Foundation. As a library, it presents a single abstract data
+model to the calling application for all supported formats. It also comes
+with a variety of useful commandline utilities for data translation and
+processing.
+
+The related OGR library (which lives within the GDAL source tree) provides
+a similar capability for simple features vector data.
+
+GDAL-Pascal is a project that aims to develop Pascal binginds for GDAL
+library.
+
+GDAL-Pascal is on GitHub at http://github.com/alexbruy/gdal-pascal. If
+you wish to contribute patches you can fork the project, make your
+changes, commit to your repository, and then issue a pull request. The
+developers can then review your contribution and commit it upstream as
+appropriate. See http://help.github.com/forking/ and
+http://help.github.com/pull-requests/ for more details.
